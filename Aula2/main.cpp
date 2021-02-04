@@ -10,6 +10,7 @@ int main()
     string nome = "Marco Pedro";
     char categoria = 'A';
 
-     cout  <<"idade:"<< idade << " Altura:" <<  altura << " Nome: " << nome<< " Categoria : "<< categoria;
+     cout  <<"Idade:"<< idade << endl << "Altura:" << altura << endl <<  "Nome:" << nome << endl <<"Categoria:"<< categoria;
+
     return 0;
 }
